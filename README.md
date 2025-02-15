@@ -9,7 +9,7 @@ The dashboard is designed to offer **actionable insights** for decision-makers, 
 - Analyze customer profitability.  
 
 ---
-## DASHBOARD_PNG(https://github.com/Khushali77-MD/Amazon-Global-Sales-Dashboard/blob/main/AmazonSalesDashboard.png)
+![Dashboard Screenshot](https://github.com/Khushali77-MD/Amazon-Global-Sales-Dashboard/blob/main/AmazonSalesDashboard.png)
 
 ## Key Features  
 ✅ **Yearly Sales Analysis** – Visualize sales trends from **2012 to 2015**.  
